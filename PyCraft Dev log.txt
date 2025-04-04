@@ -1,0 +1,19 @@
+PyCraft Dev log
+
+PyCraft Test 0.0.1
+Can move around using wasd and can place blocks, only one type a brown block
+
+PyCraft Test 0.0.2
+Added collision 
+
+PyCraft Test 0.0.2.1
+Fixed collision bug
+
+PyCraft Test 0.0.3
+Added 4 more types of blocks
+
+PyCraft Test 0.0.4 
+Added 4 more types of blocks
+
+PyCraft Test 0.0.5
+Added infinite world generation (it is just white, but endless and saving

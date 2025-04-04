@@ -1,0 +1,18 @@
+Thank you for installing Pycraft All-Versions package, it includes:
+Pycraft Test 0.0.1,
+Pycraft Test 0.0.2,
+Pycraft Test 0.0.2.1,
+Pycraft Test 0.0.3,
+Pycraft Test 0.0.4,
+Pycraft Test 0.0.5 and a Sample World
+Check the Dev log for features.
+*NOTE* Versions 0.0.1 to 0.0.4 have no world saving
+How to set up; 
+You need python 3.6 or higher if you don't have it, download it from python.org, it will take up 20 to 200mb depending on version and settings, after you have done that open the .py file with the version you want to play in, it should run, if not hover over it and click "open with" and then click python, you also most likely want 100kb of free space for world saves
+Controls: 
+WASD to move around, 
+Left click to break blocks,
+Right click to place blocks,
+1-9 to change what block you are placing (only 0.0.4 and 0.0.5, 0.0.3 has 5 colors so 1-5) 
+and ESC to save/load your world *WARNING, There is no auto save and no saving before PyCraft Test 0.0.5
+
